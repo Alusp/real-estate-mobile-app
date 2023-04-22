@@ -173,9 +173,9 @@ Play Store and App Store
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Splash Screen**
+- [ ] **Circular Loading Indicator**
+- [ ] **Publish to App Store**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,9 +193,7 @@ Feel free to check the [issues page](https://github.com/Alusp/real-estate-mobile
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+> Kindly give me a Star if you like this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
