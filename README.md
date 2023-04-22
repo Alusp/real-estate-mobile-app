@@ -55,6 +55,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 Real Estate App <a name="about-project"></a>
 
 > This is a mobile app version of an existing real estate website, that allows you to create real time listing, view homes for sale and read it blogs..
+
 ![PlayStorepic1](https://user-images.githubusercontent.com/43528594/233787887-4deaa924-f7ad-44fe-89e3-9cecc6c916ad.jpg)
 
 
