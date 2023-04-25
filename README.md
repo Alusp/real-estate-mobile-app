@@ -136,7 +136,7 @@ Install this project with:
 
 
 ```sh
-  cd my-project
+  install Dart
   Install Flutter
 ```
 
